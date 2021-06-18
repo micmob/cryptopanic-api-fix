@@ -10,7 +10,7 @@ https://cryptopanic.com/developers/api/
 
 ### Example
 
-https://cryptopanic-api.herokuapp.com//api/v1/posts/?auth_token=YOUR_TOKEN
+https://cryptopanic-api.herokuapp.com/api/v1/posts/?auth_token=YOUR_TOKEN
 
 
 ### The error:
