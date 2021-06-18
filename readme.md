@@ -1,6 +1,6 @@
 ### Usage
 
-Just replace `https://cryptopanic.com/` with `https://cryptopanic-api.herokuapp.com/`.
+Just replace `https://cryptopanic.com` with `https://cryptopanic-api.herokuapp.com`.
 
 
 ### Docs
